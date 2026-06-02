@@ -2,7 +2,7 @@
 
 ## Overview
 
-**SCF String** (`scf_str.hpp`) is a lightweight, stack-allocated fixed-size string class designed for performance-critical and embedded C++17 applications. It provides a **zero-heap** alternative to `std::string` with a familiar API while maintaining strict compile-time bounds checking.
+**SCF String** (`scf_str.hpp`) is a lightweight, stack-allocated fixed-size string class designed for performance-critical and embedded C++17 applications. It provides a **zero-heap** alternative to `std::string` with a familiar API while maintaining strict compile-time bounds checking. Its basicly a std::string data type, but with fixed sizes 
 
 ### Key Philosophy
 
